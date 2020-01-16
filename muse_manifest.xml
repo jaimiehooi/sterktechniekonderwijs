@@ -1,0 +1,361 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sterktechniekonderwijs.com" resolutions="1x" timestamp="1579191413569">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="partners.css" crc="133213468" ref="partners"/>
+    <file name="index.css" crc="228223191" ref="index"/>
+    <file name="iris.css" crc="118844355" ref="iris"/>
+    <file name="over-onze-regio.css" crc="265361754" ref="over-onze-regio"/>
+    <file name="ksh.css" crc="3942012497" ref="ksh"/>
+    <file name="herbert-vissers-college.css" crc="3850964663" ref="herbert-vissers-college"/>
+    <file name="meet-the-team.css" crc="4041385529" ref="meet-the-team"/>
+    <file name="kajmunk.css" crc="3865494567" ref="kajmunk"/>
+  </folder>
+  <folder name="assets">
+    <file name="activiteitenplan-haarlemmermeer-bollenstreek-noord.pdf" crc="10396158" seo="true" mt="1570520052000"/>
+    <file name="regiovisie-haarlemmermeer-en-bollenstreek-noord.pdf" crc="3770200532" seo="true" mt="1553847813000"/>
+    <file name="regioportret-haarlemmermeer-en-bollenstreek-noord.pdf" crc="533703778" seo="true" mt="1553847813000"/>
+    <file name="hvclogo-cmyk.eps" crc="3837552466" seo="true" mt="1516609568000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:partners:over-onze-regio:meet-the-team:herbert-vissers-college:ksh:kajmunk:iris"/>
+    <file name="museutils.js" crc="3939489907" ref="index:partners:over-onze-regio:meet-the-team:herbert-vissers-college:ksh:kajmunk:iris"/>
+    <file name="whatinput.js" crc="86476730" ref="index:partners:over-onze-regio:meet-the-team:herbert-vissers-college:ksh:kajmunk:iris"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:partners:over-onze-regio:meet-the-team:herbert-vissers-college:ksh:kajmunk:iris"/>
+    <file name="webpro.js" crc="3856315280" ref="index:partners:over-onze-regio:meet-the-team:herbert-vissers-college:ksh:kajmunk:iris"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:partners:over-onze-regio:meet-the-team:herbert-vissers-college:ksh:kajmunk:iris"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:partners:over-onze-regio:meet-the-team:herbert-vissers-college:ksh:kajmunk:iris"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:partners:over-onze-regio:meet-the-team:herbert-vissers-college:ksh:kajmunk:iris"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:partners:over-onze-regio:meet-the-team:herbert-vissers-college:ksh:kajmunk:iris"/>
+    <file name="require.js" crc="4177726516" ref="index:partners:over-onze-regio:meet-the-team:herbert-vissers-college:ksh:kajmunk:iris"/>
+  </folder>
+  <folder name="images">
+    <file name="logo-vierkant-lijnen-sterk-techniekonderwijs.svg" crc="403196232" seo="true" ref="index:partners:over-onze-regio:meet-the-team:herbert-vissers-college:ksh:kajmunk:iris">
+      <caption webpage="herbert-vissers-college" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="ksh" alt=""/>
+      <caption webpage="kajmunk" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="iris" alt=""/>
+      <caption webpage="meet-the-team" alt=""/>
+      <caption webpage="over-onze-regio" alt=""/>
+    </file>
+    <file name="logo vierkant lijnen sterk techniekonderwijs_poster_.png" crc="4149509355" ref="index"/>
+    <file name="banner sto website.jpg" crc="4250843009" seo="true" ref="index:partners:over-onze-regio:meet-the-team:herbert-vissers-college:ksh:kajmunk:iris">
+      <caption webpage="herbert-vissers-college" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="ksh" alt=""/>
+      <caption webpage="kajmunk" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="iris" alt=""/>
+      <caption webpage="meet-the-team" alt=""/>
+      <caption webpage="over-onze-regio" alt=""/>
+    </file>
+    <file name="19-10-01-0187hvc-crop-u4052.jpg" crc="385620610" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:partners:over-onze-regio:meet-the-team:herbert-vissers-college:ksh:kajmunk:iris"/>
+    <file name="19-11-07-0641hvc-crop-u4108.jpg" crc="410300942" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="19-11-07-0066hvc-crop-u4135.jpg" crc="3880230022" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:partners:over-onze-regio:meet-the-team:herbert-vissers-college:ksh:kajmunk:iris"/>
+    <file name="19-11-07-0665hvc.jpg" crc="4086948083" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="techniek 400008.jpg" crc="361317995" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="19-11-07-0455hvc.jpg" crc="3831533504" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blok-matchstickers-crop-u1046.jpg" crc="3945213776" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="unknown-2.jpg" crc="191525433" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="19-11-07-0708hvc.jpg" crc="3796883141" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="footer-sto-hires-def.svg" crc="4154086952" seo="true" ref="index:partners:over-onze-regio:meet-the-team:herbert-vissers-college:ksh:kajmunk:iris">
+      <caption webpage="herbert-vissers-college" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="ksh" alt=""/>
+      <caption webpage="kajmunk" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="iris" alt=""/>
+      <caption webpage="meet-the-team" alt=""/>
+      <caption webpage="over-onze-regio" alt=""/>
+    </file>
+    <file name="footer sto hires def_poster_.png" crc="515317770" ref="index"/>
+    <file name="sto-busjes.svg" crc="3817388945" seo="true" ref="index:partners:over-onze-regio:meet-the-team:herbert-vissers-college:ksh:kajmunk:iris">
+      <caption webpage="herbert-vissers-college" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="ksh" alt=""/>
+      <caption webpage="kajmunk" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="iris" alt=""/>
+      <caption webpage="meet-the-team" alt=""/>
+      <caption webpage="over-onze-regio" alt=""/>
+    </file>
+    <file name="sto busjes_poster_.png" crc="3831633354" ref="index"/>
+    <file name="259d79c8af2e26.jpg" crc="486369321" seo="true" ref="index:partners:over-onze-regio:meet-the-team:herbert-vissers-college:ksh:kajmunk:iris">
+      <caption webpage="herbert-vissers-college" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="ksh" alt=""/>
+      <caption webpage="kajmunk" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="iris" alt=""/>
+      <caption webpage="meet-the-team" alt=""/>
+      <caption webpage="over-onze-regio" alt=""/>
+    </file>
+    <file name="logo-hoofdvaart-college.png" crc="3919744014" seo="true" ref="index:partners:over-onze-regio:meet-the-team:herbert-vissers-college:ksh:kajmunk:iris">
+      <caption webpage="herbert-vissers-college" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="ksh" alt=""/>
+      <caption webpage="kajmunk" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="iris" alt=""/>
+      <caption webpage="meet-the-team" alt=""/>
+      <caption webpage="over-onze-regio" alt=""/>
+    </file>
+    <file name="hvc-logo-zonder-nivo-aanduiding02.svg" crc="3853475103" seo="true" ref="index:partners:over-onze-regio:meet-the-team:herbert-vissers-college:ksh:kajmunk:iris">
+      <caption webpage="herbert-vissers-college" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="ksh" alt=""/>
+      <caption webpage="kajmunk" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="iris" alt=""/>
+      <caption webpage="meet-the-team" alt=""/>
+      <caption webpage="over-onze-regio" alt=""/>
+    </file>
+    <file name="hvc logo zonder nivo aanduiding02_poster_.png" crc="4221710468" ref="index"/>
+    <file name="19-10-01-0187hvc-crop-u4512.jpg" crc="385620610" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="19-11-07-0641hvc-crop-u4510.jpg" crc="410300942" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="19-11-07-0066hvc-crop-u4514.jpg" crc="3880230022" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="logo_dunamare_groot.png" crc="166582148" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="stichting-iris-logo-christelijke-scholengemeenschap.png" crc="94180091" seo="true" ref="partners:iris">
+      <caption webpage="iris" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="logo-stichting-fioretti-teylingen-300x140.png" crc="4154248813" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="laag 2.png" crc="397927356" seo="true" ref="partners:kajmunk">
+      <caption webpage="kajmunk" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="images.png" crc="483586413" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="kleinlogo.png" crc="317322299" seo="true" ref="partners:ksh">
+      <caption webpage="ksh" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="roca_airport_logos.png" crc="444756690" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="sryfk4a4.png" crc="4180732368" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="fioretticollegelisse-logo-150x110.png" crc="536357707" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="dm-metalent-550-resized.png" crc="4174065687" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="15403.png" crc="4227154303" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="0-2.png" crc="240762567" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="laag 1.png" crc="104516572" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="logo-goflex-300x205.png" crc="4054222976" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="logo.png" crc="167592416" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="logo_cts-smaller350.png" crc="40546675" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="0.png" crc="149267267" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="dmn-westinghouse_web-logo.png" crc="3816181278" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="metaalunie.png" crc="3950977102" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="brouwer-logo.png" crc="374443884" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="logo-kavb.png" crc="289205963" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="data620xc600x400-0-0620x414.png" crc="4001839454" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="vakwijs-logo.png" crc="198736096" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="heringa-en-wutrich.png" crc="253622894" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="02.png" crc="16287356" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="vaalburg.png" crc="3973722158" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="intos.png" crc="3940826208" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="4220426.png" crc="3937855221" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="de-meerlanden.png" crc="350717028" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="logo_acb_dbg.png" crc="199142961" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="logo_engie.png" crc="3911028046" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="logo-ploegkozijnen-200x200.png" crc="149380548" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="van-varik-logo-etc-01.png" crc="3763650985" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="logo-schultelestraden-web.png" crc="246008415" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="logo-vandooren-trans.png" crc="28314067" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="logo_dero.png" crc="3916475025" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="19-10-01-0187hvc-crop-u4603.jpg" crc="385620610" seo="true" ref="over-onze-regio">
+      <caption webpage="over-onze-regio" alt=""/>
+    </file>
+    <file name="19-11-07-0641hvc-crop-u4601.jpg" crc="410300942" seo="true" ref="over-onze-regio">
+      <caption webpage="over-onze-regio" alt=""/>
+    </file>
+    <file name="19-11-07-0066hvc-crop-u4605.jpg" crc="3880230022" seo="true" ref="over-onze-regio">
+      <caption webpage="over-onze-regio" alt=""/>
+    </file>
+    <file name="19-10-01-0187hvc-crop-u4694.jpg" crc="385620610" seo="true" ref="meet-the-team">
+      <caption webpage="meet-the-team" alt=""/>
+    </file>
+    <file name="19-11-07-0641hvc-crop-u4692.jpg" crc="410300942" seo="true" ref="meet-the-team">
+      <caption webpage="meet-the-team" alt=""/>
+    </file>
+    <file name="19-11-07-0066hvc-crop-u4696.jpg" crc="3880230022" seo="true" ref="meet-the-team">
+      <caption webpage="meet-the-team" alt=""/>
+    </file>
+    <file name="foto hans rondkopie.jpg" crc="333764602" seo="true" ref="meet-the-team">
+      <caption webpage="meet-the-team" alt=""/>
+    </file>
+    <file name="foto jacques rond.png" crc="488499488" seo="true" ref="meet-the-team">
+      <caption webpage="meet-the-team" alt=""/>
+    </file>
+    <file name="foto bruno rond.jpg" crc="3811373905" seo="true" ref="meet-the-team">
+      <caption webpage="meet-the-team" alt=""/>
+    </file>
+    <file name="foto jaimie rond.jpg" crc="4014973123" seo="true" ref="meet-the-team">
+      <caption webpage="meet-the-team" alt=""/>
+    </file>
+    <file name="19-10-01-0187hvc-crop-u5550.jpg" crc="385620610" seo="true" ref="herbert-vissers-college">
+      <caption webpage="herbert-vissers-college" alt=""/>
+    </file>
+    <file name="19-11-07-0641hvc-crop-u5546.jpg" crc="410300942" seo="true" ref="herbert-vissers-college">
+      <caption webpage="herbert-vissers-college" alt=""/>
+    </file>
+    <file name="19-11-07-0066hvc-crop-u5548.jpg" crc="3880230022" seo="true" ref="herbert-vissers-college">
+      <caption webpage="herbert-vissers-college" alt=""/>
+    </file>
+    <file name="hvclogo-cmyk.svg" crc="518182278" seo="true" ref="herbert-vissers-college">
+      <caption webpage="herbert-vissers-college" alt=""/>
+    </file>
+    <file name="hvclogo cmyk_poster_.png" crc="84772887" ref="herbert-vissers-college"/>
+    <file name="588a668cd06f6719692a2d1b.png" crc="4280606719" seo="true" ref="herbert-vissers-college:ksh:kajmunk:iris">
+      <caption webpage="herbert-vissers-college" alt=""/>
+      <caption webpage="iris" alt=""/>
+      <caption webpage="ksh" alt=""/>
+      <caption webpage="kajmunk" alt=""/>
+    </file>
+    <file name="mail-3.png" crc="3795066595" seo="true" ref="herbert-vissers-college:ksh:kajmunk:iris">
+      <caption webpage="herbert-vissers-college" alt=""/>
+      <caption webpage="iris" alt=""/>
+      <caption webpage="ksh" alt=""/>
+      <caption webpage="kajmunk" alt=""/>
+    </file>
+    <file name="phone-512.png" crc="4264762045" seo="true" ref="herbert-vissers-college:ksh:kajmunk:iris">
+      <caption webpage="herbert-vissers-college" alt=""/>
+      <caption webpage="iris" alt=""/>
+      <caption webpage="ksh" alt=""/>
+      <caption webpage="kajmunk" alt=""/>
+    </file>
+    <file name="44386.png" crc="447149342" seo="true" ref="herbert-vissers-college:ksh:kajmunk:iris">
+      <caption webpage="herbert-vissers-college" alt=""/>
+      <caption webpage="iris" alt=""/>
+      <caption webpage="ksh" alt=""/>
+      <caption webpage="kajmunk" alt=""/>
+    </file>
+    <file name="19-10-01-0187hvc-crop-u6084.jpg" crc="385620610" seo="true" ref="ksh">
+      <caption webpage="ksh" alt=""/>
+    </file>
+    <file name="19-11-07-0641hvc-crop-u6086.jpg" crc="410300942" seo="true" ref="ksh">
+      <caption webpage="ksh" alt=""/>
+    </file>
+    <file name="19-11-07-0066hvc-crop-u6082.jpg" crc="3880230022" seo="true" ref="ksh">
+      <caption webpage="ksh" alt=""/>
+    </file>
+    <file name="19-10-01-0187hvc-crop-u6344.jpg" crc="385620610" seo="true" ref="kajmunk">
+      <caption webpage="kajmunk" alt=""/>
+    </file>
+    <file name="19-11-07-0641hvc-crop-u6346.jpg" crc="410300942" seo="true" ref="kajmunk">
+      <caption webpage="kajmunk" alt=""/>
+    </file>
+    <file name="19-11-07-0066hvc-crop-u6348.jpg" crc="3880230022" seo="true" ref="kajmunk">
+      <caption webpage="kajmunk" alt=""/>
+    </file>
+    <file name="19-10-01-0187hvc-crop-u6629.jpg" crc="385620610" seo="true" ref="iris">
+      <caption webpage="iris" alt=""/>
+    </file>
+    <file name="19-11-07-0641hvc-crop-u6627.jpg" crc="410300942" seo="true" ref="iris">
+      <caption webpage="iris" alt=""/>
+    </file>
+    <file name="19-11-07-0066hvc-crop-u6625.jpg" crc="3880230022" seo="true" ref="iris">
+      <caption webpage="iris" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3772722922" seo="true" mt="1578651380460" redirect="true"/>
+  <file name="partners.html" crc="4138092107" seo="true" mt="1578646370079" redirect="true"/>
+  <file name="over-onze-regio.html" crc="4288979411" seo="true" mt="1578646051855" redirect="true"/>
+  <file name="meet-the-team.html" crc="150718690" seo="true" mt="1578915467866" redirect="true"/>
+  <file name="herbert-vissers-college.html" crc="392364234" seo="true" mt="1578487374428" redirect="true"/>
+  <file name="ksh.html" crc="497001453" seo="true" mt="1578568357633" redirect="true"/>
+  <file name="kajmunk.html" crc="3760318350" seo="true" mt="1578568239317" redirect="true"/>
+  <file name="iris.html" crc="4210139407" seo="true" mt="1578568495467" redirect="true"/>
+</manifest>
